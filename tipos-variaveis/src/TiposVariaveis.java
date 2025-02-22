@@ -41,7 +41,7 @@ public class TiposVariaveis {
         numero = 10;
         
         //Constantes
-        final int NUMERO = 5; //Não pode ser modificada...
+        final int NUMERO = 5; //Não pode ser modificada
 
 
     }
