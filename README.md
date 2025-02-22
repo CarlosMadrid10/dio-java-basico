@@ -1,4 +1,4 @@
-#dio-java-basico
+#dio-trilha-java
 
 
-Repositório destinado para o armazenamento dos códigos do curso básico de Java DIO.
+Repositório destinado para o armazenamento dos códigos do curso de Java DIO.
