@@ -1,3 +1,5 @@
+package edu.carlosmadrid.primeirasemana;
+
 //Java usa o padrão CamelCase
 //Classes devem ser inicializadas com letra maiúscula
 //O nome do arquivo deve possuir o nome da classe
