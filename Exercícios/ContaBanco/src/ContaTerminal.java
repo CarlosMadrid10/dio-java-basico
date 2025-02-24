@@ -1,7 +1,7 @@
 import java.util.Locale;
 import java.util.Scanner;
 
-/**Classe para objetos do tipo Funcionários, onde serão contidos, valores e métodos para o mesmo.
+/**Classe para objetos do tipo ContaTerminal, onde serão contidos valores relacionados à conta bancária do cliente para o mesmo. 
 * @author Carlos Madrid
 * @version 1.00
 * @since 24/02/2025
