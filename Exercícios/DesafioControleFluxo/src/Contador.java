@@ -14,12 +14,12 @@ public class Contador {
 			//chamando o método contendo a lógica de contagem
 			contar(parametroUm, parametroDois);
 
-            terminal.close();
 		
 		}catch (ParametrosInvalidosException exception) {
 			System.out.println("O segundo parâmetro deve ser maior do que o primeiro e ambos parâmetros devem ser maiores do que zero.");
 		}
 		
+        terminal.close();
 	}
 	static void contar(int parametroUm, int parametroDois ) throws ParametrosInvalidosException {
 
