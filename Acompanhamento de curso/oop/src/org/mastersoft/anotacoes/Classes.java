@@ -19,6 +19,6 @@ package org.mastersoft.anotacoes;
 
 public class Classes {
     public static void main(String[] args) throws Exception {
-        System.out.println("Hello, World!");
+        System.out.println("Hello, Git.");
     }
 }

@@ -1,5 +1,7 @@
 package org.mastersoft.modificadoresDeAcesso;
 
+// Eclipse version
+
 /*
 	- default: pode ser acessível para classes de mesmo pacote.
 	- public: classe, método ou atributo pode ser visto em qualquer outra classe, em qualquer outro pacote.
